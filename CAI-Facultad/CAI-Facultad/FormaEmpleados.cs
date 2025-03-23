@@ -1,8 +1,8 @@
 namespace CAI_Facultad
 {
-    public partial class Form1 : Form
+    public partial class FormaEmpleados : Form
     {
-        public Form1()
+        public FormaEmpleados()
         {
             InitializeComponent();
         }
