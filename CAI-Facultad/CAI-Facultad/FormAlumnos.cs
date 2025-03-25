@@ -16,5 +16,10 @@ namespace CAI_Facultad
         {
             InitializeComponent();
         }
+
+        private void FormAlumnos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
