@@ -15,6 +15,6 @@ namespace CAI_Facultad.Entidades
         public int Legajo { get => _legajo ; set => _legajo = value; }
         protected override void GetCredencial() { }
 
-        protected abstract string ListarEmpleados(bool listarConId) { }
+        
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CAI-Facultad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b80ea651142a2efa20a8913566e37650f5343f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+887a90198b2477085f91a9baacd79010ff75b4e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("CAI-Facultad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CAI-Facultad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

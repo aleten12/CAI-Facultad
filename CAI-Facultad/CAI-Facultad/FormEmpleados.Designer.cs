@@ -1,6 +1,6 @@
 ﻿namespace CAI_Facultad
 {
-    partial class FormsEmpleados
+    partial class FormEmpleados
     {
         /// <summary>
         ///  Required designer variable.

@@ -10,6 +10,8 @@ namespace CAI_Facultad.Entidades
     {
         public void GetNombreCompleto() { }
 
-        public bool ListarEmpleados(bool listarConId) { }
+        protected override void GetCredencial() { }
+
+       
     }
 }
