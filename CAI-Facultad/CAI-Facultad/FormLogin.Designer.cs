@@ -33,7 +33,7 @@
             lblContraseña = new Label();
             txtConstraseña = new TextBox();
             btbIngresar = new Button();
-            btbCrearCuenta = new Button();
+            btbContraseña = new Button();
             SuspendLayout();
             // 
             // lblUsuario
@@ -78,21 +78,22 @@
             btbIngresar.UseVisualStyleBackColor = true;
             btbIngresar.Click += btbIngresar_Click;
             // 
-            // btbCrearCuenta
+            // btbContraseña
             // 
-            btbCrearCuenta.Location = new Point(303, 294);
-            btbCrearCuenta.Name = "btbCrearCuenta";
-            btbCrearCuenta.Size = new Size(193, 34);
-            btbCrearCuenta.TabIndex = 5;
-            btbCrearCuenta.Text = "Crear Cuenta";
-            btbCrearCuenta.UseVisualStyleBackColor = true;
+            btbContraseña.Location = new Point(303, 294);
+            btbContraseña.Name = "btbContraseña";
+            btbContraseña.Size = new Size(193, 34);
+            btbContraseña.TabIndex = 5;
+            btbContraseña.Text = "Actualizar contraseña";
+            btbContraseña.UseVisualStyleBackColor = true;
+            btbContraseña.Click += btbContraseña_Click;
             // 
             // FormLogin
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(790, 450);
-            Controls.Add(btbCrearCuenta);
+            Controls.Add(btbContraseña);
             Controls.Add(btbIngresar);
             Controls.Add(txtConstraseña);
             Controls.Add(lblContraseña);
@@ -111,6 +112,6 @@
         private Label lblContraseña;
         private TextBox txtConstraseña;
         private Button btbIngresar;
-        private Button btbCrearCuenta;
+        private Button btbContraseña;
     }
 }

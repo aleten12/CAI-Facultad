@@ -129,8 +129,9 @@
             btbIngresarEmpleado.TabIndex = 10;
             btbIngresarEmpleado.Text = "Ingresar";
             btbIngresarEmpleado.UseVisualStyleBackColor = true;
+            btbIngresarEmpleado.Click += btbIngresarEmpleado_Click;
             // 
-            // FormsEmpleados
+            // FormEmpleados
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -146,7 +147,7 @@
             Controls.Add(lblApellidoEmpleado);
             Controls.Add(txtNombreEmpleado);
             Controls.Add(lblNombreEmpleado);
-            Name = "FormsEmpleados";
+            Name = "FormEmpleados";
             Text = "Empleados";
             Load += Form1_Load;
             ResumeLayout(false);

@@ -18,3 +18,4 @@ D:\Datos\OneDrive\Documentos\GitHub\CAI-Facultad\CAI-Facultad\CAI-Facultad\obj\D
 D:\Datos\OneDrive\Documentos\GitHub\CAI-Facultad\CAI-Facultad\CAI-Facultad\obj\Debug\net8.0-windows\CAI-Facultad.pdb
 D:\Datos\OneDrive\Documentos\GitHub\CAI-Facultad\CAI-Facultad\CAI-Facultad\obj\Debug\net8.0-windows\CAI-Facultad.genruntimeconfig.cache
 D:\Datos\OneDrive\Documentos\GitHub\CAI-Facultad\CAI-Facultad\CAI-Facultad\obj\Debug\net8.0-windows\ref\CAI-Facultad.dll
+D:\Datos\OneDrive\Documentos\GitHub\CAI-Facultad\CAI-Facultad\CAI-Facultad\obj\Debug\net8.0-windows\CAI_Facultad.FormContraseña.resources

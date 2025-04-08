@@ -11,5 +11,10 @@ namespace CAI_Facultad
         {
 
         }
+
+        private void btbIngresarEmpleado_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
