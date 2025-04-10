@@ -75,6 +75,7 @@
             btbActualizarContraseña.TabIndex = 4;
             btbActualizarContraseña.Text = "Actualizar Contraseña";
             btbActualizarContraseña.UseVisualStyleBackColor = true;
+            btbActualizarContraseña.Click += btbActualizarContraseña_Click;
             // 
             // FormContraseña
             // 
@@ -88,7 +89,6 @@
             Controls.Add(txtNuevaContraseña);
             Name = "FormContraseña";
             Text = "Actualizar Contraseña";
-           // Load += this.FormContraseña_Load;
             ResumeLayout(false);
             PerformLayout();
         }

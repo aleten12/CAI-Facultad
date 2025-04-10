@@ -34,9 +34,9 @@
             lblApellido = new Label();
             txtNombre = new TextBox();
             txtApellido = new TextBox();
-            lblCodigo = new Label();
-            textBox1 = new TextBox();
-            btbIngresarAlumno = new Button();
+            btbListarAlumnos = new Button();
+            btbModificar = new Button();
+            lstAlumnos = new ListBox();
             SuspendLayout();
             // 
             // lblNombreAlumnos
@@ -51,15 +51,15 @@
             // 
             // dateTimePicker1
             // 
-            dateTimePicker1.Location = new Point(543, 96);
+            dateTimePicker1.Location = new Point(264, 150);
             dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(225, 31);
+            dateTimePicker1.Size = new Size(200, 31);
             dateTimePicker1.TabIndex = 1;
             // 
             // lblFechaNac
             // 
             lblFechaNac.AutoSize = true;
-            lblFechaNac.Location = new Point(347, 101);
+            lblFechaNac.Location = new Point(52, 155);
             lblFechaNac.Name = "lblFechaNac";
             lblFechaNac.Size = new Size(177, 25);
             lblFechaNac.TabIndex = 2;
@@ -88,39 +88,42 @@
             txtApellido.Size = new Size(173, 31);
             txtApellido.TabIndex = 5;
             // 
-            // lblCodigo
+            // btbListarAlumnos
             // 
-            lblCodigo.AutoSize = true;
-            lblCodigo.Location = new Point(347, 51);
-            lblCodigo.Name = "lblCodigo";
-            lblCodigo.Size = new Size(139, 25);
-            lblCodigo.TabIndex = 6;
-            lblCodigo.Text = "Código Alumno";
+            btbListarAlumnos.Location = new Point(47, 258);
+            btbListarAlumnos.Name = "btbListarAlumnos";
+            btbListarAlumnos.Size = new Size(165, 34);
+            btbListarAlumnos.TabIndex = 9;
+            btbListarAlumnos.Text = "Listar";
+            btbListarAlumnos.UseVisualStyleBackColor = true;
+            btbListarAlumnos.Click += btbListarAlumnos_Click;
             // 
-            // textBox1
+            // btbModificar
             // 
-            textBox1.Location = new Point(543, 45);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(225, 31);
-            textBox1.TabIndex = 7;
+            btbModificar.Location = new Point(47, 328);
+            btbModificar.Name = "btbModificar";
+            btbModificar.Size = new Size(165, 34);
+            btbModificar.TabIndex = 10;
+            btbModificar.Text = "Modificar";
+            btbModificar.UseVisualStyleBackColor = true;
             // 
-            // btbIngresarAlumno
+            // lstAlumnos
             // 
-            btbIngresarAlumno.Location = new Point(295, 175);
-            btbIngresarAlumno.Name = "btbIngresarAlumno";
-            btbIngresarAlumno.Size = new Size(138, 34);
-            btbIngresarAlumno.TabIndex = 8;
-            btbIngresarAlumno.Text = "Ingresar";
-            btbIngresarAlumno.UseVisualStyleBackColor = true;
+            lstAlumnos.FormattingEnabled = true;
+            lstAlumnos.ItemHeight = 25;
+            lstAlumnos.Location = new Point(240, 243);
+            lstAlumnos.Name = "lstAlumnos";
+            lstAlumnos.Size = new Size(346, 129);
+            lstAlumnos.TabIndex = 11;
             // 
             // FormAlumnos
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(btbIngresarAlumno);
-            Controls.Add(textBox1);
-            Controls.Add(lblCodigo);
+            Controls.Add(lstAlumnos);
+            Controls.Add(btbModificar);
+            Controls.Add(btbListarAlumnos);
             Controls.Add(txtApellido);
             Controls.Add(txtNombre);
             Controls.Add(lblApellido);
@@ -142,8 +145,8 @@
         private Label lblApellido;
         private TextBox txtNombre;
         private TextBox txtApellido;
-        private Label lblCodigo;
-        private TextBox textBox1;
-        private Button btbIngresarAlumno;
+        private Button btbListarAlumnos;
+        private Button btbModificar;
+        private ListBox lstAlumnos;
     }
 }

@@ -100,7 +100,7 @@
             Controls.Add(txtLoginUsuario);
             Controls.Add(lblUsuario);
             Name = "FormLogin";
-            Text = "FormLogin";
+            Text = "Login";
             ResumeLayout(false);
             PerformLayout();
         }

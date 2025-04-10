@@ -59,7 +59,7 @@ namespace CAI_Facultad
 
             if (usuarioValido && contraseñaValida)
             {
-                // ✅ Paso extra: validar contra el CSV
+                
                 if (ValidarCredenciales(usuario, contraseña, "credenciales.csv"))
                 {
                     this.Hide();
