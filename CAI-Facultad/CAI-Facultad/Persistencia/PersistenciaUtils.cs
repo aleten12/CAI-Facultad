@@ -9,7 +9,7 @@ namespace CAI_Facultad.Persistencia
     internal class PersistenciaUtils
 
     {
-        string archivoCsv = @"D:\Datos\OneDrive\Documentos\GitHub\CAI-Facultad\CAI-Facultad\CAI-Facultad\Datos\alumnos.csv";
+        string archivoCsv = @"D:\Datos\OneDrive\Documentos\GitHub\CAI-Facultad\CAI-Facultad\CAI-Facultad\Datos\";
         public List<String> LeerRegistro(String nombreArchivo)
         {
             archivoCsv = archivoCsv + nombreArchivo; // Cambia esta ruta al archivo CSV que deseas leer
@@ -57,11 +57,17 @@ namespace CAI_Facultad.Persistencia
                 List<string> listado = LeerRegistro(nombreArchivo);
 
                 // Filtrar las líneas que no coinciden con el ID a borrar (comparar solo la primera columna)
-                var registrosRestantes = listado.Where(linea =>
+                List<string> registrosRestantes = new List<string>();
+
+                foreach (string linea in listado)
                 {
-                    var campos = linea.Split(';');
-                    return campos[0] != id; // Verifica solo el ID (primera columna)
-                }).ToList();
+                    string[] campos = linea.Split(';');
+
+                    if (campos.Length > 0 && campos[0] != id) // Verifica que haya al menos un campo
+                    {
+                        registrosRestantes.Add(linea); // Solo agrega si el ID no coincide
+                    }
+                }
 
                 // Sobrescribir el archivo con las líneas restantes
                 File.WriteAllLines(archivoCsv, registrosRestantes);
