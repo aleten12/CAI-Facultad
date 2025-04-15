@@ -8,6 +8,8 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CAI_Facultad.Entidades;
+using CAI_Facultad.Persistencia;
 
 namespace CAI_Facultad
 {
@@ -62,9 +64,7 @@ namespace CAI_Facultad
                 
                 if (ValidarCredenciales(usuario, contraseña, "credenciales.csv"))
                 {
-                    this.Hide();
-                    FormMenu formMenu = new FormMenu();
-                    formMenu.ShowDialog();
+                    validarEstadoClave(txtLoginUsuario.Text);
                 }
                 else
                 {
@@ -92,7 +92,68 @@ namespace CAI_Facultad
 
             return flag;
         }
+        private void validarEstadoClave(string usuarioLogin)
+        {
+            Credencial credencialLogin = buscarUsuario(usuarioLogin);
 
+            if (credencialLogin.FechaUltimoIngreso == null)
+            {
+                this.Hide();
+                FormContraseña formContraseña = new FormContraseña();
+                formContraseña.ShowDialog();
+            } else
+            {
+                this.Hide();
+                FormMenu formMenu = new FormMenu();
+                formMenu.ShowDialog();
+            }
+
+            if (credencialLogin.FechaUltimoIngreso < DateTime.Today.AddDays(-30))
+            {
+                this.Hide();
+                FormContraseña formContraseña = new FormContraseña();
+                formContraseña.ShowDialog();
+            }
+            else
+            {
+                this.Hide();
+                FormMenu formMenu = new FormMenu();
+                formMenu.ShowDialog();
+            }
+
+        }
+
+        private Credencial buscarUsuario(String usuarioLogin)
+        {
+            Credencial credencialLogin = null;
+
+            foreach (Credencial credencial in obtenerCredenciales())
+            {
+                if (credencial.Usuario.Equals(usuarioLogin))
+                {
+                    credencialLogin = credencial;
+                }
+            }
+
+            return credencialLogin;
+        }
+
+        private List<Credencial> obtenerCredenciales()
+        {
+
+            string archivo = "credenciales.csv";
+            PersistenciaUtils persistenciaUtils = new PersistenciaUtils();
+            List<String> listado = persistenciaUtils.LeerRegistro(archivo);
+            List<Credencial> listadoCredenciales = new List<Credencial>();
+
+            foreach (String registro in listado)
+            {
+                Credencial credencial = new Credencial(registro);
+                listadoCredenciales.Add(credencial);
+            }
+
+            return listadoCredenciales;
+        }
         private void btbContraseña_Click(object sender, EventArgs e)
         {
             this.Hide();

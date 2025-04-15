@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\entidades\\credencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\entidades\\credencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\datos\\credenciales.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\datos\\credenciales.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\formcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\persistencia\\persistenciautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\persistencia\\persistenciautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\cai-facultad\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\datos\\alumnos.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\datos\\alumnos.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\cai-facultad\\formcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -19,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formcontrase\u00F1a.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\persistencia\\persistenciautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\persistencia\\persistenciautils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\entidades\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\cai-facultad\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\formalumnos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\formalumnos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\datos\\alumnos.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|solutionrelative:cai-facultad\\datos\\alumnos.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD6B6500-1191-421C-BF1A-D0ACEE582413}|CAI-Facultad\\CAI-Facultad.csproj|d:\\datos\\onedrive\\documentos\\github\\cai-facultad\\cai-facultad\\cai-facultad\\formalumnos.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
@@ -118,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,7 +130,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
+              "Title": "Credencial.cs",
+              "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Credencial.cs",
+              "RelativeDocumentMoniker": "CAI-Facultad\\Entidades\\Credencial.cs",
+              "ToolTip": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Credencial.cs",
+              "RelativeToolTip": "CAI-Facultad\\Entidades\\Credencial.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:25:27.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "alumnos.csv",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Datos\\alumnos.csv",
               "RelativeDocumentMoniker": "CAI-Facultad\\Datos\\alumnos.csv",
@@ -134,12 +151,11 @@
               "RelativeToolTip": "CAI-Facultad\\Datos\\alumnos.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-04-10T20:47:13.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T20:47:13.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "credenciales.csv",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Datos\\credenciales.csv",
               "RelativeDocumentMoniker": "CAI-Facultad\\Datos\\credenciales.csv",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "FormContrase\u00F1a.Designer.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormContrase\u00F1a.Designer.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormContrase\u00F1a.Designer.cs",
@@ -160,12 +176,11 @@
               "RelativeToolTip": "CAI-Facultad\\FormContrase\u00F1a.Designer.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAowFoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:49:38.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T20:49:38.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FormMenu.Designer.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormMenu.Designer.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormMenu.Designer.cs",
@@ -177,28 +192,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FormContrase\u00F1a.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormContrase\u00F1a.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormContrase\u00F1a.cs",
               "ToolTip": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormContrase\u00F1a.cs",
               "RelativeToolTip": "CAI-Facultad\\FormContrase\u00F1a.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAA/wEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:38:30.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "FormContrase\u00F1a.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormContrase\u00F1a.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormContrase\u00F1a.cs",
               "ToolTip": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormContrase\u00F1a.cs [Dise\u00F1o]",
               "RelativeToolTip": "CAI-Facultad\\FormContrase\u00F1a.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T20:31:46.47Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-04-08T20:31:46.47Z"
             },
             {
               "$type": "Document",
@@ -208,26 +222,25 @@
               "RelativeDocumentMoniker": "CAI-Facultad\\Persistencia\\PersistenciaUtils.cs",
               "ToolTip": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Persistencia\\PersistenciaUtils.cs",
               "RelativeToolTip": "CAI-Facultad\\Persistencia\\PersistenciaUtils.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAIAwwHIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T20:19:36.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FormAlumnos.resx",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormAlumnos.resx",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormAlumnos.resx",
               "ToolTip": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormAlumnos.resx",
               "RelativeToolTip": "CAI-Facultad\\FormAlumnos.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-04-08T20:16:30.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T20:16:30.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Program.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\Program.cs",
@@ -239,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "FormMenu.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormMenu.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormMenu.cs",
@@ -252,20 +265,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "FormLogin.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormLogin.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormLogin.cs",
               "ToolTip": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormLogin.cs",
               "RelativeToolTip": "CAI-Facultad\\FormLogin.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAIAwwD0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAswKQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T18:04:36.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FormLogin.Designer.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormLogin.Designer.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormLogin.Designer.cs",
@@ -278,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "FormLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormLogin.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormLogin.cs",
@@ -290,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "FormAlumnos.Designer.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormAlumnos.Designer.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormAlumnos.Designer.cs",
@@ -298,12 +311,11 @@
               "RelativeToolTip": "CAI-Facultad\\FormAlumnos.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T19:36:31.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T19:36:31.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "FormAlumnos.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormAlumnos.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormAlumnos.cs",
@@ -316,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Bedel.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Bedel.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\Entidades\\Bedel.cs",
@@ -328,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Docente.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Docente.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\Entidades\\Docente.cs",
@@ -340,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Directivo.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Directivo.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\Entidades\\Directivo.cs",
@@ -352,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Empleado.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Empleado.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\Entidades\\Empleado.cs",
@@ -364,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Facultad.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Facultad.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\Entidades\\Facultad.cs",
@@ -376,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Alumno.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Alumno.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\Entidades\\Alumno.cs",
@@ -384,12 +396,11 @@
               "RelativeToolTip": "CAI-Facultad\\Entidades\\Alumno.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T02:36:22.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T02:36:22.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Persona.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\Entidades\\Persona.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\Entidades\\Persona.cs",
@@ -401,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CAI-Facultad.csproj",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad.csproj",
               "RelativeDocumentMoniker": "CAI-Facultad\\CAI-Facultad.csproj",
@@ -413,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "FormEmpleados.cs",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormEmpleados.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormEmpleados.cs",
@@ -426,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "FormMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormMenu.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormMenu.cs",
@@ -437,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "FormEmpleados.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormEmpleados.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormEmpleados.cs",
@@ -448,15 +459,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FormAlumnos.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormAlumnos.cs",
               "RelativeDocumentMoniker": "CAI-Facultad\\FormAlumnos.cs",
               "ToolTip": "D:\\Datos\\OneDrive\\Documentos\\GitHub\\CAI-Facultad\\CAI-Facultad\\CAI-Facultad\\FormAlumnos.cs [Dise\u00F1o]",
               "RelativeToolTip": "CAI-Facultad\\FormAlumnos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T03:22:13.328Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-03-23T03:22:13.328Z"
             }
           ]
         }
